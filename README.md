@@ -1,6 +1,7 @@
 ## I teach data journalism at Cardiff University's School of Journalism.
 
 ![School of journalism, Cardiff](https://blogs.cardiff.ac.uk/insiders/wp-content/uploads/sites/523/2023/07/20230604_153940-656x492.jpg)
+https://blogs.cardiff.ac.uk/insiders/wp-content/uploads/sites/523/2023/07/20230604_153940-656x492.jpg
 
 <!--
 **aodhanlutetiae/aodhanlutetiae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
